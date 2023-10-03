@@ -1,0 +1,76 @@
+#container{
+    height: 75vh;
+    width: 75vw;
+    text-align: center;
+    background-color: azure;
+    margin: auto;
+    box-sizing: border-box;
+}
+#container button{
+    height: 150px;
+    width: 150px;
+}
+#stm{
+    text-align: center;
+}
+#a1{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+    
+}
+#a2{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#a3{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#a4{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#a5{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#a6{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#a7{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#a8{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#a9{
+    font-stretch: expanded;
+    font-size: larger;
+    font-weight: 100;
+
+}
+#rbtn{
+    padding-left: 80%;
+    box-sizing: border-box;
+    box-shadow: 30px;
+    margin: auto;
+
+}
